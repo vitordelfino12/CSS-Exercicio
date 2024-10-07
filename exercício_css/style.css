@@ -95,5 +95,13 @@ header h1 {
 }
 
 #economy {
-    background-color: cornsilk;
+    background-color: rgba(39, 1, 1, 0.199);
+}
+
+#e-sports {
+    background-color: rgba(47, 97, 138, 0.712);
+}
+
+#animes {
+    background-color: lightslategrey;
 }
